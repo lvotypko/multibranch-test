@@ -1,2 +1,1 @@
-echo "barnch master"
-echo "change1"
+echo "barnch new1"
